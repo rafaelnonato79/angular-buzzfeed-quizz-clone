@@ -1,3 +1,5 @@
+Para acessar o sistema: https://angular-buzzfeed-quizz-clone-weld.vercel.app/
+
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
